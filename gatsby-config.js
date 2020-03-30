@@ -1,10 +1,10 @@
-const siteTitle = "gatsby-starter-typescript-deluxe";
+const siteTitle = "Mega Ultra Studios";
 const siteDescription =
-  "A Gatsby starter with TypeScript, Storybook, Styled Components, Framer Motion, Jest, and more.";
-const siteAuthor = "@gojutin";
-const siteUrl = "https://gatsby-starter-typescript-deluxe.netlify.com";
+  "Multimeda Production";
+const siteAuthor = "@Mega Ultra Studios";
+const siteUrl = "https://megaultra.space";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;
-const siteKeywords = ["gatsby", "typescript", "starter", "javascript", "react"];
+const siteKeywords = ["multimedia", "independent", "film", "video", "production", "studio"];
 
 module.exports = {
   siteMetadata: {
@@ -46,10 +46,10 @@ module.exports = {
         short_name: siteTitle,
         description: siteDescription,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#CFC714`,
+        theme_color: `#0D0D0D`,
         display: `minimal-ui`,
-        icon: "src/images/icon.png",
+        icon: "src/images/logo.png",
         icons: [
           {
             src: "icons/icon_512x512.png",
